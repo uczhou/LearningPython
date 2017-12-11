@@ -10,3 +10,6 @@ The basic functions of this system include:
 * registering students for the class
 * recording class grades of registered students
 * retrieving academic transcripts
+
+# registration.py is the application driver script.
+To start the application, type: ./registration.py in shell
